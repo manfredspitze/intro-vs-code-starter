@@ -8,6 +8,8 @@
 > *I can add files to my folder in VS Code.*
 > 
 > *I can edit files I've added to my folder in VS Code.*
+>
+> *I can write a simple Python script that uses **variables** and **f-strings**.
 
 ## General Specifications
 
