@@ -1,11 +1,9 @@
 
-# Exit Ticket
-
-## Name ______________________________________     AM               PM  (Circle one)
+# Exit Ticket / Intro to Visual Studio Code
 
 ## Today's Topic: XYZ
 
-- Please answer the following questions 
+- Please answer the following questions about today's topic
 - Use correct spelling and grammar
 
 ### Question 1
