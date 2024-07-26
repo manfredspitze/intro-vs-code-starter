@@ -1,5 +1,5 @@
 
-# Name of Assignment
+# Intro to Visual Studio Code (VS Code)
 
 ## Objective
 
