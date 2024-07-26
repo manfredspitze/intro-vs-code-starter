@@ -12,7 +12,7 @@
 
 ### Assume you have the following information:
 ```
-Corn Flakes
+Frosted Flakes
 breakfast
 
 I eat ________________ every day for ______________________.
