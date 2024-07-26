@@ -37,12 +37,14 @@
 Study this code snippet and predict what it will do when you execute (run) it.
 
 ```
-python
-print('Hello!')
+# Part 1
+greeting = 'Good morning!'
+print(greeting)
 ```
 
 ### (R)un
 
+In the `main.py` file in this repo (repository), click the editing pencil and add the two lines of Python code shown under *Predict* to your Python file.
 
 ### (I)nvestigate
 
