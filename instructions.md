@@ -85,4 +85,6 @@ Now add a third code block to the bottom of your script.
   -  Use an `f-string` to build and then display on your screen a sentence similar to this one:
  
   > My name is Mike and I attend Bellaire High School.
+  >
+  > HINT: You might want to create a **NEW** variable called `full_sentence3`!
 
