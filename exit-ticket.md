@@ -16,7 +16,10 @@ Corn Flakes
 breakfast
 
 I eat ________________ every day for ______________________.
+
+*What would the complete sentence say?*
 ```
-- Question 2
+- In 1 - 2 sentences, explain how the Python `f-string` you wrote today in your code is similar to the sample sentence above.
+- *Your answer here...*
 
 
