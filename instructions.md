@@ -4,7 +4,9 @@
 ## Objective
 
 > *I can create and name a project folder in Visual Studio Code*
+> 
 > *I can add files to my folder in VS Code*
+> 
 > *I can edit files I've added to my folder in VS Code*
 
 
