@@ -44,7 +44,7 @@ print(greeting)
 
 ### (R)un
 
-In the `main.py` file in this repo (repository), click the editing pencil and add the two lines of Python code shown under *Predict* to your Python file.
+In the `main.py` file in this repo (repository), click the editing pencil and add the two lines of Python code shown under *(P)redict* to your Python file.
 
 ### (I)nvestigate
 
