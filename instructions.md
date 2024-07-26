@@ -50,12 +50,37 @@ I will show you how to download and run your `main.py` file during another lesso
 
 ### (I)nvestigate
 
+- Is the `print` statement in Part 1 written in uppercase or lowercase?
+- What do you think Python would do if you typed `Print` rather than `print`?
+- How do you think Python would react if you typed `print(Greeting)` instead of `print(greeting)`?
 
 
 ### (M)odify
 
+Under `Part 1` in your `main.py` file, add a second block of code that looks like this:
+
+```
+# Part 2
+greeting = 'Good morning ' # Note the space after the g in morning
+first_name = 'Abraham'
+last_name = 'Lincoln'
+
+full_sentence1 = f'{greeting}, {first_name}!'
+full_sentence2 = f'{greeting}, {last_name}!'
+
+print(full_sentence1)
+print(full_sentence2)
+```
 
 ### (Make)
 
-
+Now add a third code block to the bottom of your script.
+- Add a Python comment that says 'Part 3'
+- Change the value of the variable `greeting` to a different time of the day
+- Assign your first name to the variable `first_name`
+- Assign your last name to the variable `last_name`
+- Assign the name of your home school to a **NEW** variable called `school`
+  -  Use an `f-string` to build and then display on your screen a sentence similar to this one:
+ 
+  > My name is Mike and I attend Bellaire High School.
 
