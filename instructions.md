@@ -84,7 +84,7 @@ Now add a third code block to the bottom of your script.
 - Assign the name of your home school to a **NEW** variable called `school`
   -  Use an `f-string` to build and then display on your screen a sentence similar to this one:
  
-  > My name is Mike and I attend Bellaire High School.
+  > My name is Mikey and I attend Bellaire High School.
   >
   > HINT: You might want to create a **NEW** variable called `full_sentence3`!
 
