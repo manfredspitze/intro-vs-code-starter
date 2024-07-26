@@ -24,7 +24,7 @@
 
 ## Finished With This Activity?
 
-- Submit the URL to your repo on Google Classroom
+- Submit the URL that points to your repo on Google Classroom
 
 
 ## PRIMM Activity
