@@ -46,6 +46,8 @@ print(greeting)
 
 In the `main.py` file in this repo (repository), click the editing pencil and add the two lines of Python code shown under *(P)redict* to your Python file.
 
+I will show you how to download and run your `main.py` file during another lesson.
+
 ### (I)nvestigate
 
 
