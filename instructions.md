@@ -23,3 +23,29 @@
 ## Finished With This Activity?
 
 - Submit the URL to your repo on Google Classroom
+
+
+## PRIMM Activity
+
+> PRIMM stands for (P)redict, (R)un, (I)nvestigate, (M)odify and (M)ake.
+>
+> PRIMM is a technique developed in the United Kingdom (UK) for teaching students how to read, understand, and write code.
+
+
+### (P)redict
+
+
+### (R)un
+
+
+### (I)nvestigate
+
+
+
+### (M)odify
+
+
+### (Make)
+
+
+
