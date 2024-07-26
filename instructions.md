@@ -34,6 +34,12 @@
 
 ### (P)redict
 
+Study this code snippet and predict what it will do when you execute (run) it.
+
+```
+python
+print('Hello!')
+```
 
 ### (R)un
 
